@@ -1,4 +1,4 @@
-# Работаю с GIT!!!
+# git init
 ### Header 2
 ### Header 3
 ### Header 4
