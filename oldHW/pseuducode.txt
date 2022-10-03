@@ -1,0 +1,13 @@
+**///ЗДЕСЬ БУДЕТ ПСЕВДОКОД///**
+
+n = [2, 5, 13, 7, 6, 4];
+s = numbers.lenght;
+sum = 0;
+avg = 0;
+i = 0;
+while (i < s) do;
+    then {sum = sum + n[i]
+    };
+    i++;
+    avg = sum / size;
+    print avg;
